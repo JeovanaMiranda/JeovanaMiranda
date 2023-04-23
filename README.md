@@ -3,7 +3,7 @@
 <div><h2 text-aling="center">Olá, eu sou Jeovana!👋</h2></div>
 
 <li>Tenho 17 anos;</li>
-<li>Sou estudante de Informática para Internet no Instituto Federal - Campus Guanambi.</li>
+<li>Sou estudante de Informática para Internet no Instituto Federal - Campus Guanambi.</li<br>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JeovanaMiranda&show_icons=true&theme=dracula)
 
