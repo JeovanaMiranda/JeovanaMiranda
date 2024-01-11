@@ -1,4 +1,6 @@
-<div align="center" style="background-color: blue; padding: 20px; color: white;">
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8F0D87&height=120&section=header"/>
+
+<div align="center" style="background-color: blue; color: white;">
   <h1>Hello, I'm Jeovana!</div>
 </div>
 
@@ -46,6 +48,11 @@
  
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jeovana_mirand/?next=%2F)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jeovanamiranda218@gmail.com)<br>
+
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8F0D87&height=120&section=footer"/>
+
+
 
 
 
